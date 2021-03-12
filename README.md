@@ -1,4 +1,4 @@
-# frontend-scenario1
+# FrontendScenarop-EmailVerification
 
 ## Project setup
 ```
